@@ -1,0 +1,39 @@
+Hello there, beautiful person, who downloaded my "art"! Thank You for the download!
+I hope there will be no problems loading and managing these models.
+If there still is something wrong, please, contact me directly.
+
+My email: Ieva.lickiene@gmail.com
+
+Have a nice experience! Eat well, sleep well and be nice to Your Mom! ;D 
+
+Best Regards,
+Ieva
+
+-----------------------------------------------------------------------------------------------------------------------
+
+The whole info about the model is bellow.
+
+- Bathroom Sink -
+
+- Sink model has 20 018 polygons and 19 0943 vertices.
+- Objects has Colliders apllied to it.
+- It is a polygonal model (quads and tris), built in 3dsMax 2016 application.
+- Model has 10 objects within, which are grouped to one group. For easy use objects are named logically (using English language).
+-File Formats:.FBX
+
+- Toilet/Lavatory -
+
+- Toilet model has in total 15 821 polygons and 16 939 vertices.
+- Model is made of 12 parts, which are grouped together. For easy use objects are named logically (using English language).
+- It is a polygonal model (quads and tris), built in 3dsMax 2016 application.
+- Model has Colliders applied to it.
+- File Formats:.FBX 
+
+- Radiator Set -
+
+- There are 3 different radiator models. For easy use objects are named logically (using English language) and numbers.
+- It is a polygonal model (quads and tris), built in 3dsMax 2016 application.
+- Radiator Set has in total 32 093 polygons and 33 663 verices. The polygon count is for all three radiator meshes in total.
+- Model has Colliders applied to it.
+- File Formats:.FBX
+
